@@ -1,0 +1,2 @@
+def revstr(s):
+    pass
