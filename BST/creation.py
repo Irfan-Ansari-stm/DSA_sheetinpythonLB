@@ -11,3 +11,5 @@ class BST:
         if self.root is None:
             self.root=new_node
             return True
+    def det(self):
+        pass
