@@ -1,2 +1,2 @@
 def revstr(s):
-    pass
+    "impl"
